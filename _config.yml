@@ -1,7 +1,13 @@
-title: GitHub Pages Primer Theme
+title: Custom Jekyll config
 description: Github Pages default theme with pagination
 
 repository: DirtyF/gh-pages-test
+
+# Change defaults
+source: src
+collection_dir: content
+layouts_dir:  src/theme/_layouts
+includes_dir: src/theme/_includes
 
 # Pagination
 paginate: 1
