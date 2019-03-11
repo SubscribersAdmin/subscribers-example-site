@@ -1,7 +1,7 @@
 title: Custom Jekyll config
 description: Github Pages default theme with pagination
 
-repository: DirtyF/gh-pages-test
+repository: SubscribersAdmin/subscribers-example-site
 
 # Change defaults
 source: src
